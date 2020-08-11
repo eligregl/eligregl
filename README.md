@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Eligreg López
+## Hi there 👋 I'm Eligreg López
 
-## and I'm a Frontend Development student
+### and I'm a Frontend Development student
 
 🇻🇪 A venezuelan in Colombia
 🔭 Currently working on Leadbox
