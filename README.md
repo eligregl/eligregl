@@ -3,8 +3,8 @@
 ### and I'm a Frontend Development student
 
 🇻🇪 A venezuelan in Colombia
-🔭 Currently working on Leadbox
-🌱 Learning everything Javascript
+🔭 Currently working on Globant
+🌱 Learning everything Javascript (React & Angular)
 📫 eligregl@gmail.com
 🧍‍♀️ She/Her - Ella
 
