@@ -3,7 +3,6 @@
 ### and I'm a Frontend Development student
 
 🇻🇪 A venezuelan in Colombia
-🔭 Currently working at Globant
 🌱 Learning everything Javascript (React & Angular)
 📫 eligregl@gmail.com
 🧍‍♀️ She/Her - Ella
