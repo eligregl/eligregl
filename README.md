@@ -4,7 +4,7 @@
 
 🇻🇪 Venezuelan in Colombia
 <br>
-🌱 Working with verything Javascript (React & Angular)
+🌱 Working with Javascript (React & Angular)
 <br>
 📖 Learning DevOps and Cloud 
 <br>
