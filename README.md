@@ -2,9 +2,11 @@
 
 ### and I'm a Frontend Developer
 
-🇻🇪 A venezuelan in Colombia
+🇻🇪 Venezuelan in Colombia
 <br>
-🌱 Learning everything Javascript (React & Angular)
+🌱 Working with verything Javascript (React & Angular)
+<br>
+📖 Learning DevOps and Cloud 
 <br>
 📫 eligregl@gmail.com
 <br>
