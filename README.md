@@ -6,7 +6,7 @@
 <br>
 🌱 Working with Javascript (React & Angular)
 <br>
-📖 Learning DevOps and Cloud 
+📖 Learning .NET
 <br>
 📫 eligregl@gmail.com
 <br>
