@@ -6,8 +6,6 @@
 <br>
 🌱 Working with Javascript (React & Angular)
 <br>
-📖 Learning .NET
-<br>
 📫 eligregl@gmail.com
 <br>
 🧍‍♀️ She/Her - Ella
